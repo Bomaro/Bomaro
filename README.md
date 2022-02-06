@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on as Professor and Energy business development coordinator
 - 🌱 I’m currently learning Python, HTML, CSS
-- 👯 I’m looking to collaborate on data science electrical projects
+- 👯 I’m looking to collaborate on good data science projects for the energy sector
 - 🤔 I’m looking for help with projects with data science 
 - 💬 Ask me about energy trader
 - 😄 Pronouns: he/his
