@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/bomaro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bomaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomaro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bomaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <a href="https://github.com/bomaro/github-readme-stats">
