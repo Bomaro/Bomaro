@@ -1,4 +1,4 @@
-### Hi there I am Rafael Bomaro👋
+### Hi there, I am Rafael Bomaro👋
 
 - 🔭 I’m currently working on as Professor and Energy business development coordinator
 - 🌱 I’m currently learning Python, HTML, CSS
