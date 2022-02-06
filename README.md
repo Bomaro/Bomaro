@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I love surf, games and programming 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomaro&theme=dark&show_icons=true)
+![Bomaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomaro&count_private=true)
